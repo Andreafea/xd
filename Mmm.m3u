@@ -1,0 +1,29 @@
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg" group-title="Canales Bolivianos",BOLIVIA TV 7.2 HD
+https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/chunklist_w1791536562.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0cS01gg/TVU-LP-HD.jpg" group-title="Canales Bolivianos",TVU LP HD
+https://614013e273786.streamlock.net/TvUniversitaria/TvUniversitaria/chunklist_w1311356096.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pfrCPht/SEO-TV-FHD.jpg" group-title="Canales Bolivianos",SEO TV HD
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LgDJb8R/SEO-KIDS-TV.jpg" group-title="Canales Bolivianos",SEO TV KIDS HD
+https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W23sBB7/RENUEVA-DIGITAL-FHD.jpg" group-title="Canales Bolivianos",RENUEVA DIGITAL HD
+https://ca2.inka.net.pe/renuevatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rfw7Vjf/RED-ADEVENIR.jpg" group-title="Canales Bolivianos",RED ADEVENIR HD
+https://streamer1.streamhost.org/salive/GMIredadvenirh/chunklist_w497868593.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FJJvtrB/bolivision.jpg" tvg-group="BOLIVIA", BOLIVISION
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.fvvi1-1.fna.fbcdn.net/v/t39.30808-1/242730123_4557063677674301_218989420846466365_n.png?stp=dst-png_p200x200&_nc_cat=107&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=gHRBkNyyTY0AX-6RN6b&_nc_ht=scontent.fvvi1-1.fna&edm=AKsJ254EAAAA&oh=00_AfD4jsS42HyIUAkAKBx68QR9ZYSvokKvjjuauK7sLy-vXg&oe=63B62BA3" tvg-group="BOLIVIA", PAT
+https://master.tucableip.com/pat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg" tvg-group="BOLIVIA", UNITEL
+https://dtvott-abc.akamaized.net/dash_live_1104/dash/1104_ESPN_ARGENTINA_HD-audio_72882_spa=72400.dash
+#EXTINF:-1 tvg-logo="https://scontent.fvvi1-1.fna.fbcdn.net/v/t1.18169-1/20258205_10155715951689653_593242875521106439_n.png?_nc_cat=111&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=-uNWyihBimsAX_c1pbX&_nc_ht=scontent.fvvi1-1.fna&edm=AKsJ254EAAAA&oh=00_AfC0XHeQ0c_KPJwyjZTDxEy9nbD2qc82zK-8mA9tVyP83g&oe=63D7F7F8" tvg-group="INFANTILES", cartoonnetwork
+https://1240-vos.dtvott.com/DASH/stream_07/1669471482700_init.m4i
+#EXTINF:-1 tvg-logo="https://es.m.wikipedia.org/wiki/Am%C3%A9rica_Televisi%C3%B3n_(Per%C3%BA)#/media/Archivo%3AAm%C3%A9rica_Televisi%C3%B3n.svg" tvg-group="INFANTILES", AMERICA LATINA
+https://dtvott-cbc.akamaized.net/dash_live_1123/dash/1123_FOX_SPORTS_3-audio_122082_spa=121600.dash
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Telemundo_Logo_2018-1.svg" tvg-group="INFANTILES", TELEMUNDO
+https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/mZlUGBf.jpg",Chacra TV
+https://s8.stweb.tv/chacra/live/playlist.m3u8
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/J7stpmb.png",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+http://disfruta.net/get.php?username=tvlatvgo152728e&password=XfnGyhSif8&type=m3u
